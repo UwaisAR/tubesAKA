@@ -1,0 +1,12 @@
+C:\Users\roni\source\repos\visualijer\visualijer\bin\Release\visualijer.exe.config
+C:\Users\roni\source\repos\visualijer\visualijer\bin\Release\visualijer.exe
+C:\Users\roni\source\repos\visualijer\visualijer\bin\Release\visualijer.pdb
+C:\Users\roni\source\repos\visualijer\visualijer\bin\Release\id\visualijer.resources.dll
+C:\Users\roni\source\repos\visualijer\visualijer\obj\Release\visualijer.Form1.resources
+C:\Users\roni\source\repos\visualijer\visualijer\obj\Release\visualijer.Properties.Resources.resources
+C:\Users\roni\source\repos\visualijer\visualijer\obj\Release\visualijer.Form1.id.resources
+C:\Users\roni\source\repos\visualijer\visualijer\obj\Release\visualijer.csproj.GenerateResource.cache
+C:\Users\roni\source\repos\visualijer\visualijer\obj\Release\visualijer.csproj.CoreCompileInputs.cache
+C:\Users\roni\source\repos\visualijer\visualijer\obj\Release\id\visualijer.resources.dll
+C:\Users\roni\source\repos\visualijer\visualijer\obj\Release\visualijer.exe
+C:\Users\roni\source\repos\visualijer\visualijer\obj\Release\visualijer.pdb
