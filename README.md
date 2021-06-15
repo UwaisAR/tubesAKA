@@ -1,8 +1,8 @@
 # WGTIK-1303190066
 Tugas WGTIK Pertemuan 13
 
-Membuat visualisasi pengurutan data dengan visual studio
-menggunakan 3 bahasa yaitu C, Java dan Golang
+Membuat visualisasi pengurutan data dengan visual studio <br>
+menggunakan 3 bahasa yaitu C#, C++ dan Golang
 
 Check it out! :
 
