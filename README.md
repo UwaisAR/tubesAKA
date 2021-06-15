@@ -1,10 +1,10 @@
 WGTIK-1303190040
 Tugas WGTIK Pertemuan 13
 
-Hanya portofolio dasar menggunakan HTML dan CSS yang saya buat
+Membuat visualisasi pengurutan data dengan visual studio
 
 Check it out! : https://agilfchx.github.io/WGTIK-1303190040/
 
-Nama : Muhamad Agil Fachrian
-NIM : 1303190040
+Nama : Uwais Alqarani Rachmawan
+NIM : 1303190066
 Kelas : IT-43-01
